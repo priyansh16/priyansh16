@@ -4,9 +4,9 @@ I'm a MSc Student in Computer Science and Engineering specializing in Artificial
 
 ***
 
-<a[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyansh16&show_icons=true&hide_rank=True&theme=radical)]()/>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyansh16&show_icons=true&hide_rank=True&theme=radical)]()
 
-<a[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh16&langs_count=5&theme=tokyonight)]()/a>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh16&langs_count=5&theme=tokyonight)]()
 
 ***
 
