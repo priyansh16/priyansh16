@@ -1,4 +1,4 @@
-<h2 align="center">Data Scientist & Software Engineer | scikit-learn Contributor</h2>
+<h2 align="center">ML/AI Engineer & Software Engineer | scikit-learn Contributor</h2>
 <h3>Bridging the gap between complex statistical research and high-availability engineering.</h3>
 I am an analytical Data Scientist with 3+ years of experience at Cisco, specializing in high-dimensional behavioral modeling, anomaly detection, and risk monitoring. I don't just build models; I architect the scalable pipelines and resilient infrastructure required to run them in production.
 <br/>
