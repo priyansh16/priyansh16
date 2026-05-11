@@ -16,29 +16,18 @@ I am an analytical Data Scientist with 3+ years of experience at Cisco, speciali
 - **[Scikit-learn Contributor](https://github.com/scikit-learn/scikit-learn/pull/28997):** Improving the robustness and performance of the world’s most used ML library.
 - **[Master’s Thesis | DiVA Portal](https://liu.diva-portal.org/smash/record.jsf?pid=diva2%3A2004537&dswid=5518)** – Engineered high-dimensional behavioral profiles using NMF and GMM on a 29M record dataset.
 - **[Author at LINHAC 2025](https://doi.org/10.3384/ecp214002):** Presented a decision-support framework for longitudinal behavioral drift in high-stakes environments.
-
-#### Top Projects
-
-<a href="https://github.com/priyansh16/PricePrediction">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=priyansh16&repo=PricePrediction&show_owner=True&theme=merko"/>
-  <!-- - **Tech:** AWS EC2, Flask, XGBoost, Custom Monitoring Dashboards. -->
-</a>
-<a href="https://github.com/priyansh16/AI_PrepPal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priyansh16&repo=AI_PrepPal&show_owner=True&theme=merko"/>
-  <!-- - **Tech:** Python, Gemini API, LLM Orchestration, RAG, Streamlit, Feedback loop. -->
-</a>
-<br>
+  
 
 #### The Tech Stack
-- **Languages:** Python (Expert), SQL, Bash.
+- **Languages:** Python (Expert), SQL, Bash, Java, JavaScript, TypeScript.
 
 - **ML/Math:** Scikit-learn, XGBoost, PyTorch, TensorFlow, Time-Series.
 
-- **Data/Infra:** AWS, Snowflake, Kafka, Docker, Airflow, CI/CD.
+- **Data/Infra:** AWS, GCP, Terraform, Snowflake, Grfana, Docker, Airflow, CI/CD.
 
 - **Analytics:** Tableau, Power BI, Matplotlib, Grafana.
 
 #### Let's Connect
 - **LinkedIn:** [pggupta](https://www.linkedin.com/in/pggupta/)
 - **Email:** [gupta.priyansh918@gmail.com](gupta.priyansh918@gmail.com)
-- **Location:** Linköping, Sweden
+- **Location:** Sweden
