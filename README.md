@@ -23,7 +23,6 @@ systems across 9 global regions (APIs, monitoring, alerting), plus applied resea
 - **Data Engineering**: designing ingestion pipelines with explicit, defensible data quality policies, idempotent processing, and layered validation from the API boundary down to the database.
 - **Production ML Infrastructure:** end-to-end ML lifecycles, from data acquisition through deployment via REST APIs, with health monitoring, alerting, and drift detection built in from the start.
 - **Behavioral & Recommendation Modeling:** unsupervised learning (NMF, GMM) for entity clustering and evolution tracking; two-tower architectures for large-scale retrieval and ranking.
-  
 - **Observability**: rolling-threshold anomaly detection, alerting pipelines, and incident response for globally distributed systems.
 
 ## Selected Work
@@ -39,15 +38,10 @@ systems across 9 global regions (APIs, monitoring, alerting), plus applied resea
 
 ##  Tech Stack
 - **Languages:** Python, SQL, Java, JavaScript, TypeScript, Bash
-
 - **Backend & APIs**: FastAPI, Flask, PostgreSQL, MongoDB, BigQuery
-
 - **ML**: PyTorch, TensorFlow, Scikit-learn, XGBoost, GMM, NMF, Time-Series, Random Forest
-
 - **Infra & Cloud**: AWS, GCP, Docker, Terraform, Airflow, dbt, CI/CD
-
 - **Observability**: Grafana, Prometheus, Jenkins
-
 - **Analytics**: Tableau, Power BI
 
 #### Let's Connect
